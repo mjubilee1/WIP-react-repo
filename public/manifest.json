@@ -1,0 +1,15 @@
+{
+  "short_name": "Sleepless Gamers App",
+  "name": "Sleepless Gamers App",
+  "icons": [
+    {
+      "src": "./icons/favicon.ico",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#ff0000",
+  "background_color": "#ffffff"
+}
